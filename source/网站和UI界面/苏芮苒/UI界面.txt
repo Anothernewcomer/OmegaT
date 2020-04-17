@@ -1,0 +1,87 @@
+
+TF_MENU_HELP_LOG=L&og...
+TF_MENU_HELP_CHECK_FOR_UPDATES=&Check for Updates...
+
+MW_REOPEN_QUESTION=In order for the changes to take effect \
+    OmegaT needs to close and then open the project. \n\
+    Reopen the project now?
+
+TF_TM_LOAD_ERROR=Failed to load translation memory {0} for project!
+
+TF_LOAD_ERROR=Failed to load specified project!
+
+TF_COMPILE_ERROR=Failed to compile project files!
+
+TF_MESSAGE_COMPILE=It was not possible to create translated documents, because some tags are missing or damaged. Please correct the tag issues before using again Create Translated Documents.
+
+TF_COMMIT_ERROR=Failed to commit source files!
+TF_COMMIT_TARGET_ERROR=Failed to commit target files!
+TF_COMMIT_START=Committing source files
+TF_COMMIT_DONE=Source files committed
+TF_COMMIT_TARGET_START=Committing target files
+TF_COMMIT_TARGET_DONE=Target files committed
+
+TF_PROJECT_PROPERTIES_ERROR=Failed to update project properties
+
+MW_PROMPT_SEG_NR_MSG=Enter the segment number:
+
+MW_PROMPT_SEG_NR_TITLE=Go To Segment
+
+# {0} = total number of duplicates for current segment
+MW_GO_TO_DUPLICATE_HEADER=Duplicate segments: {0}
+
+# {0,number,#} = segment number, with thousands separator suppressed
+MW_GO_TO_DUPLICATE_ITEM=Segment {0,number,#}
+
+MW_MORE_SUBMENU=More
+
+# {0} = total nr of segments in project
+MW_SEGMENT_NUMBER_ERROR=You must enter a number between 1 and {0}.
+
+MW_ERROR_PROJECT_NOT_EDITABLE=Error while trying to edit the project!
+
+MW_REOPEN_TITLE=Reopen the project?
+
+MW_STATUS_SAVING=Saving project...
+
+MW_STATUS_SAVED=Project saved
+
+MW_STATUS_TIP_CURSOR_LOCK_ON=Cursor locked
+MW_STATUS_TIP_CURSOR_LOCK_OFF=Cursor unlocked
+MW_STATUS_TIP_CURSOR_OVERTYPE_ON=Overwrite Mode
+MW_STATUS_TIP_CURSOR_OVERTYPE_OFF=Insert Mode
+MW_STATUS_CURSOR_LOCK_ON=LCK
+MW_STATUS_CURSOR_LOCK_OFF=UNL
+MW_STATUS_CURSOR_OVERTYPE_ON=OVR
+MW_STATUS_CURSOR_OVERTYPE_OFF=INS
+
+MW_SEGMENT_LENGTH_DEFAULT=\ --/--
+MW_QUIT_CONFIRM=Do you really want to quit?
+MW_SEGMENT_LENGTH_TOOLTIP=Source/translation lengths (characters)
+
+MW_PROGRESS_DEFAULT=\ --/-- (--/--, --)
+MW_PROGRESS_DEFAULT_PERCENTAGE=\ {0} ({1} left) / {2} ({3} left), {4}
+
+MW_PROGRESS_TOOLTIP=File: translated / number of segments \
+(project: unique translated / unique, total number of segments)
+MW_PROGRESS_TOOLTIP_PERCENTAGE=File: unique translated % (unique left) \
+/ project: unique translated % (unique left), total number of segments
+
+MW_JUMPING_LAST_ENTRY=Jumping to last edited segment...
+
+# NOTE: segment start is assumed to end with "0000" string to overwrite
+# with entry number.  If zeros not detected, entry number will not be
+# displayed
+TF_CUR_SEGMENT_START=segment 0000
+
+TF_CUR_SEGMENT_AUTHOR_DATE=Translation last modified by {0} on {1} at {2}
+
+TF_CUR_SEGMENT_AUTHOR=Last modified by {0}
+
+TF_CUR_SEGMENT_UNKNOWN_AUTHOR=unknown
+
+TF_SELECT_FONTS_TITLE=Display Font
+
+TF_SELECT_SOURCE_FONT=Font
+
+TF_SELECT_FONTSIZE=Size

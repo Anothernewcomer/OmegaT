@@ -1,0 +1,103 @@
+TF_FONT_SAMPLE_TEXT=This is the way text will look when displayed.
+
+
+
+TF_FONT_SAMPLE_TITLE=Sample Text
+TF_APPLY_TO_PROJECT_FILES=&Apply this font to tabular data (project files, statistics, etc.)
+PREFS_TITLE_FONT=Font
+
+# Project frame
+# org.omegat.gui.ProjectFrame
+
+PF_WINDOW_TITLE=Project Files ({0})
+
+PF_WINDOW_TITLE_FILTERED=Project Files ({0} of {1})
+
+PF_FILENAME=Filename
+
+PF_FILTERNAME=Filter
+
+PF_ENCODING=Encoding
+
+PF_NUM_SEGMENTS=Segments
+
+PF_NUM_UNIQUE_SEGMENTS=Unique segments
+
+PF_STAT_PATH=You can find detailed statistic information in the file:\n{0}
+
+PF_MOVE_FIRST=Move &First
+PF_MOVE_UP=Move &Up
+PF_MOVE_DOWN=Move &Down
+PF_MOVE_LAST=Move &Last
+
+PF_TABLE_FILTER=Filter:
+
+PF_FILTER_BUTTON_CLOSE=Clo&se
+
+PF_OPEN_SOURCE_FILE=Open Source File
+# 0: Number of files (greater than 1)
+PF_OPEN_SOURCE_FILES=Open {0} Source Files
+PF_REVEAL_SOURCE_FILE=Open Source File Location
+# 0: Number of files (greater than 1)
+PF_REVEAL_SOURCE_FILES=Open {0} Source Files' Locations
+PF_OPEN_TARGET_FILE=Open Target File
+# 0: Number of files (greater than 1)
+PF_OPEN_TARGET_FILES=Open {0} Target Files
+PF_REVEAL_TARGET_FILE=Open Target File Location
+# 0: Number of files (greater than 1)
+PF_REVEAL_TARGET_FILES=Open {0} Target Files' Locations
+
+GUI_PROJECT_TOTAL_SEGMENTS=Total number of segments
+
+GUI_PROJECT_UNIQUE_SEGMENTS=Number of unique segments
+
+GUI_PROJECT_TRANSLATED=Translated unique segments
+
+
+# immortalize the BeOS 404 messages (some modified a bit for context)
+HF_HAIKU_1=Exciting help page\nGossamer threads hold you back\n404 not found
+
+HF_HAIKU_2=Wind catches lily\nScatt'ring petals to the wind:\nYour page is not found
+
+HF_HAIKU_3=Bartender yells loud:\nYour page cannot be found, boy\nBuy another drink
+
+HF_HAIKU_4=Page slips through fingers\nPulse pounding hard and frantic\nVanishing like mist
+
+HF_HAIKU_5=These three are certain:\nDeath, taxes, and page not found\nYou, victim of one
+
+HF_HAIKU_6=The help page you seek\nLies beyond our perception\nBut others await
+
+HF_HAIKU_7=Emptiness of soul\nForever aching blackness\nYour help page not found
+
+HF_HAIKU_8=Ephemeral page\nI am the Blue Screen of Death\nNo one hears your screams
+
+HF_HAIKU_9=Rather than beep\nOr a rude error message\nThese words: 'Page not found'
+
+HF_HAIKU_10=Mourning and sorrow\n404 not with us now\nLost to paradise
+
+HF_HAIKU_11=Help you are seeking\nFrom your path it is fleeing\nIts winter has come
+
+# CommandThread
+CT_FUZZY_X_OF_Y=Analyzing strings - {0} of {1} completed
+
+CT_DOWNLOADING_PROJECT=Downloading project...
+
+CT_LOADING_PROJECT=Loading project...
+
+CT_LOADING_GLOSSARIES=Loading glossaries
+
+CT_CANCEL_LOAD=Project load cancelled by user
+
+CT_ERROR_SAVING_PROJ=Error saving project file!
+
+CT_ERROR_CREATE=Error creating project!
+
+CT_FATAL_ERROR=Fatal error encountered - saving project file with '.recover' backup extension.\n\
+    Please consult the documentation about your recovery options and\n\
+    return the information below to the software manufacturer with\n\
+    a description of how this error was produced.\n
+
+CT_AUTOCREATE_DIRECTORY=Folder {0} was automatically created for team mode project
+
+# 0 - Name of file being loaded
+CT_LOAD_FILE_MX=Loading: {0}

@@ -1,0 +1,90 @@
+TF_MENU_PROJECT_RELOAD=&Reload
+
+TF_MENU_FILE_CLOSE=&Close
+
+TF_MENU_FILE_COMMIT=Commit Source Files
+
+TF_MENU_FILE_TARGET=Commit Target Files
+
+TF_MENU_FILE_SAVE=&Save
+
+TF_MENU_FILE_COMPILE=Create &Translated Documents
+
+TF_MENU_FILE_SINGLE_COMPILE=Create Current Translated &Document
+
+TF_MENU_FILE_MED_OPEN=Open MED Project...
+TF_MENU_FILE_MED_CREATE=Create MED Project...
+
+MW_PROJECTMENU_EDIT=&Properties...
+
+MW_PROJECTMENU_OPTIONS=Options
+
+WM_PROJECTMENU_FILEFILTERS=File &Filters...
+
+TF_MENU_FILE_PROJWIN=Project &Files...
+
+TF_MENU_FILE_ACCESS_PROJECT_FILES=&Access Project Contents
+
+TF_MENU_FILE_ACCESS_ROOT=&Root
+
+TF_MENU_FILE_ACCESS_DICTIONARY=&Dictionaries
+
+TF_MENU_FILE_ACCESS_GLOSSARY=&Glossaries
+
+TF_MENU_FILE_ACCESS_TM=T&Ms
+
+TF_MENU_FILE_ACCESS_SOURCE=&Source Files
+
+TF_MENU_FILE_ACCESS_TARGET=&Target Files
+
+
+TF_MENU_FILE_ACCESS_CURRENT_SOURCE_DOCUMENT=&Current Source Document
+
+TF_MENU_FILE_ACCESS_CURRENT_TARGET_DOCUMENT=C&urrent Target Document
+
+TF_MENU_FILE_ACCESS_WRITEABLE_GLOSSARY=&Writeable Glossary
+
+TF_MENU_FILE_QUIT=&Quit
+
+TF_MENU_EDIT=&Edit
+
+TF_MENU_EDIT_UNDO=&Undo Last Action
+
+TF_MENU_EDIT_REDO=&Redo Last Action
+
+TF_MENU_EDIT_FIND=&Search Project...
+
+TF_MENU_EDIT_REPLACE=Search and Replace...
+
+TF_MENU_EDIT_INSERT=&Insert Match or Selection
+
+TF_MENU_EDIT_RECYCLE=R&eplace with Match or Selection
+
+TF_MENU_EDIT_OVERWRITE_MACHITE_TRANSLATION=Replace with &Machine Translation
+
+TF_MENU_EDIT_SOURCE_INSERT=I&nsert Source
+
+TF_MENU_EDIT_SOURCE_OVERWRITE=Re&place with Source
+TF_MENU_EDIT_EXPORT_SELECTION=E&xport Selection
+TF_MENU_EDIT_TAGPAINT=Insert Missing Source &Tags
+TF_MENU_EDIT_TAG_NEXT_MISSED=Insert Next Missing Tag
+TF_MENU_EDIT_TAG_INSERT_N=Insert Tag {0}
+
+TF_MENU_EDIT_UNTRANSLATED_TRANSLATION=Remove translation
+TF_MENU_EDIT_EMPTY_TRANSLATION=Set empty translation
+TF_MENU_EDIT_IDENTICAL_TRANSLATION=Register Identical Translation
+
+TF_MENU_EDIT_CREATE_GLOSSARY_ENTRY=Create &Glossary Entry...
+
+TF_MENU_EDIT_COMPARE=Select Mat&ch
+TF_MENU_EDIT_COMPARE_NEXT=Select &Next Match
+TF_MENU_EDIT_COMPARE_PREV=Select &Previous Match
+TF_MENU_EDIT_COMPARE_1=Select Match #&1
+
+TF_MENU_EDIT_COMPARE_2=Select Match #&2
+
+TF_MENU_EDIT_COMPARE_3=Select Match #&3
+
+TF_MENU_EDIT_COMPARE_4=Select Match #&4
+
+TF_MENU_EDIT_COMPARE_5=Select Match #&5

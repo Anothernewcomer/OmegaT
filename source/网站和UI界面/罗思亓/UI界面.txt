@@ -1,0 +1,76 @@
+
+TF_MENU_GOTO_SELECTED_MATCH_SOURCE=Source of Selected &Match
+
+TF_MENU_GOTO_NEXT_UNIQUE=Next Uni&que Segment
+
+TF_MENU
+
+TF_MENU_TOOLS=&Tools
+
+TF_MENU_TOOLS_CHECK_ISSUES=Check &Issues...
+TF_MENU_TOOLS_CHECK_ISSUES_CURRENT_FILE=Check Issues for &Current Document
+TF_MENU_TOOLS_STATISTICS_STANDARD=&Statistics
+TF_MENU_TOOLS_STATISTICS_MATCHES=&Match Statistics
+TF_MENU_TOOLS_STATISTICS_MATCHES_PER_FILE=Match Statistics per &File
+TF_MENU_TOOLS_ALIGN_FILES=&Align Files...
+TF_MENU_TOOLS_SCRIPTING=Scriptin&g...
+
+MW_OPTIONSMENU=&Options
+
+TF_MENU_DISPLAY_ADVANCE=Use &TAB to Advance
+
+TF_MENU_DISPLAY_MARK_TRANSLATED=Mark &Translated Segments
+
+TF_MENU_DISPLAY_MARK_UNTRANSLATED=Mark &Untranslated Segments
+
+TF_MENU_DISPLAY_MARK_PARAGRAPH=Mark &Paragraph Delimitations
+
+TF_MENU_DISPLAY_FILTERS=File &Filters...
+
+MW_OPTIONSMENU_WORKFLOW=&Editor...
+
+MW_OPTIONSMENU_SENTSEG=&Segmentation...
+
+TF_OPTIONSMENU_MACHINETRANSLATE=Mac&hine Translate
+
+TF_OPTIONSMENU_GLOSSARY=&Glossary
+PREFS_GLOSSARY_TBX_DISPLAY_CONTEXT=Display context description for TBX &glossaries
+PREFS_GLOSSARY_EXACT_MATCH=Use terms &appearing separately in the source text
+PREFS_GLOSSARY_STEMMING=Use &stemming for glossary entries
+PREFS_GLOSSARY_REPLACE_ON_INSERT=Replace &glossary hits when inserting source text
+PREFS_GLOSSARY_REQUIRE_SIMILAR_CASE=&Ignore hits with very different case (e.g. FOO vs foo)
+PREFS_TITLE_GLOSSARY=Glossary
+
+
+TF_OPTIONSMENU_DICTIONARY=Dictionar&y
+TF_OPTIONSMENU_DICTIONARY_FUZZY=Use &Fuzzy Matching for Dictionary Entries
+PREFS_TITLE_DICTIONARY=Dictionary
+PREFS_DICTIONARY_FUZZY=Use &fuzzy matching for dictionary entries
+PREFS_DICTIONARY_AUTO_SEARCH=&Automatically search segment text in dictionary
+TF_MENU_EDIT_SEARCH_DICTIONARY=Search Dictionaries
+
+MW_OPTIONSMENU_AUTOCOMPLETE_SHOW_AUTOMATICALLY=&Show Relevant Suggestions Automatically
+MW_OPTIONSMENU_AUTOCOMPLETE=A&uto-completion
+PREFS_AUTOCOMPLETE_SHOW_AUTOMATICALLY=&Show relevant suggestions automatically
+PREFS_AUTOCOMPLETE_SWITCH_VIEWS_LR=Switch views with {0} and {1}
+PREFS_TITLE_AUTOCOMPLETER=Auto-Completion
+MW_OPTIONSMENU_AUTOCOMPLETE_HISTORY_COMPLETION=History Completion
+MW_OPTIONSMENU_AUTOCOMPLETE_HISTORY_PREDICTION=History Prediction
+PREFS_AUTOCOMPLETE_HISTORY_COMPLETION_ENABLED=&Enable history completion
+PREFS_AUTOCOMPLETE_HISTORY_PREDICTION_ENABLED=Enable history &prediction
+PREFS_TITLE_AUTOCOMPLETE_HISTORY=History
+
+MW_OPTIONSMENU_ALWAYS_CONFIRM_QUIT=&Always Confirm Quit
+
+MW_OPTIONSMENU_RESTORE_GUI=&Restore Main Window
+
+MW_OPTIONSMENU_ACCESS_CONFIG_DIR=Access Configurat&ion Folder
+
+MW_OPTIONSMENU_PREFERENCES=&Preferences...
+
+TF_MENU_HELP=&Help
+
+TF_MENU_HELP_CONTENTS=&User's Manual...
+
+TF_MENU_HELP_ABOUT=&About...
+TF_MENU_HELP_LAST_CHANGES=&Last Changes...

@@ -1,0 +1,119 @@
+# buttons
+BUTTON_OK=&OK
+
+BUTTON_CANCEL=&Cancel
+
+BUTTON_CLOSE=&Close
+
+BUTTON_FILTER=&Filter
+
+BUTTON_REMOVEFILTER=Re&move Filter
+
+BUTTON_REPLACE=&Replace
+BUTTON_REPLACE_ALL=Re&place All
+
+BUTTON_HOME=Con&tents
+
+BUTTON_BACK=&Back
+
+BUTTON_SELECT=&OK
+
+BUTTON_SELECT_NO_MNEMONIC=Select
+
+BUTTON_SEARCH=&Search
+
+BUTTON_REMOVE=&Remove
+
+BUTTON_REMOVE_2=R&emove
+
+BUTTON_ADD=&Add...
+
+BUTTON_EDIT=&Edit...
+
+BUTTON_ADD_NODOTS=&Add
+
+BUTTON_ADD_NODOTS2=A&dd
+
+BUTTON_TO_DEFAULTS=Restore De&faults
+
+BUTTON_INSERT=&Insert
+
+BUTTON_FIX_ALL=&Fix All
+
+BUTTON_FILTER_SKIP=&Skip
+BUTTON_FILTER_REPLACE_NEXT=&Replace Next
+BUTTON_FILTER_CANCEL=&Finish
+BUTTON_FILTER_REMOVE_FILTER=&Remove Filter
+
+BUTTON_SAVE_AS=&Save As...
+
+# commons
+ERROR_TITLE=Error
+
+CONFIRM_DIALOG_TITLE=Confirm
+
+OUT_OF_MEMORY=OmegaT ran out of memory, and will quit when you press OK.\n\
+    You may try to solve this problem in one of the following ways:\n\
+    \n\
+    1) Reduce the number of source files and translate in batches;\n\
+    \n\
+    2) Increase the amount of memory available to OmegaT, by\n\
+    specifying \"java -Xmx<size-in-MB>M -jar OmegaT.jar\" on the\n\
+    command line or in the OmegaT start script;\n\
+    The current setting is {0}MB;\n\
+    \n\
+    See "Chapter 3. Installing and running OmegaT" in the User Manual.\n\
+    \n\
+    OmegaT will now terminate.\n
+
+# 0: JVM version number e.g. 1.6.0_65
+# 1: JVM bitness (32 or 64)
+JAVA_VERSION=Running on Java {0} ({1}-bit)
+
+MEMORY_USAGE=Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB
+
+#The name of encoding meaning that the filter should determine the encoding itself.
+ENCODING_AUTO=<auto>
+
+
+# MainWindow
+TF_INTRO_EMPTYPROJECT=Your project does not contain any files in a supported file format.\n\
+    (In the user's manual, see 'Files to translate' > 'File formats' \
+    for a list of supported file formats.)\n\
+    To add files to the project, click on the Copy Files to Source Folder... button \
+    in the Project Files window or call this action from the Project menu and \
+    select the source files you want to copy. You may also copy the files \
+    to your project's 'source' folder using your favorite file manager and \
+    reload the project by calling Reload from the Project menu.
+
+TF_INTRO_EMPTYPROJECT_FILENAME=Project is Empty
+
+TF_WARNING=Warning
+
+TF_ERROR=Error
+
+TF_CHOSEN_YES=OmegaT has chosen option 'Yes' automatically.
+
+TF_MENU_FILE=&Project
+
+TF_MENU_FILE_CREATE=&New...
+
+TF_MENU_FILE_TEAM_CREATE=Download &Team Project...
+
+TF_MENU_FILE_OPEN=&Open...
+
+TF_MENU_FILE_OPEN_RECENT=Open Recent Pro&ject
+TF_MENU_FILE_CLEAR_RECENT=&Clear Menu
+
+TF_MENU_FILE_IMPORT=Cop&y Files to Source Folder...
+TF_FILE_IMPORT_TITLE=Copy Files to Source Folder...
+
+TF_MENU_WIKI_IMPORT=Download Media&Wiki Page...
+
+TF_WIKI_IMPORT_TITLE=Download MediaWiki Page
+
+TF_WIKI_IMPORT_PROMPT=Please type or paste the URL of the mediawiki page
+
+TF_WIKI_IMPORT_FAILED=Importing Wiki Page Failed
+
+MAIN_ERROR_File_Import_Failed=File Copy Failed
